@@ -1,0 +1,1 @@
+(()=>{"use strict";eval('\n\nalert("Successful built from webpack");\n\n//# sourceURL=webpack://webpack2/./app.js?')})();
